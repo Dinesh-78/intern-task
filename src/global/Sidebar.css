@@ -1,0 +1,11 @@
+/* Ensure the sidebar has a white background */
+.pro-sidebar {
+    background-color: #ffffff !important;
+  }
+  
+  /* Optional: Customize the active menu item background color */
+  .pro-menu-item.active-item {
+    background-color: #e5e7eb !important;
+    border-radius: 5px;
+  }
+  
